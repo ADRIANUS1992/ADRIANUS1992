@@ -1,13 +1,5 @@
+https://youtu.be/Qw7lqpV78VA
+
 https://github.com/josemariamendezruiz/arduino_nano/blob/fb36b95299604b9fcf37e91a84db3c715edd0b22/control%20de%20giro%20y%20velocidad%20de%20un%20motor%20con%20potenciometro
 
 
-- 👋 Hi, I’m @ADRIANUS1992
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ADRIANUS1992/ADRIANUS1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
